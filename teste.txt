@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zlTgs" group-title="Canais | Filmes e Séries",A&E - FHD
-http://195.181.163.183:2200/py-n/globo_hd_minas-br/index.m3u8
-
